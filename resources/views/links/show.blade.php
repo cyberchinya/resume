@@ -43,11 +43,11 @@
                 <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                     <div class="pr-12">
                         <h1 class="text-white font-semibold text-5xl">
-                            Привет я R3M1X
+                            Привет я DEVOPS
                         </h1>
                         <p class="mt-4 text-lg text-gray-300">
-                          Я фуллстек разработчик и создаю сайты от простых лендингов, одностраничных сайтов,
-                          сайтов визиток, онлайн магазинов и CRM систем до сложных интернет порталов.
+                          Я бекенд разработчик и создаю сайты от лендингов, одностраничных сайтов,
+                          сайтов визиток, онлайн магазинов и CRM систем до интернет порталов.
                         </p>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                             <p class="mt-2 mb-4 text-gray-600">
                                Полная поддержка сайтов, установка и настройка SSL сертификатов на сайт,
                                настройка и обслуживание vps/vds серверов, настройка vpn соеденений,
-                               рабочих станций, настройка облачной телефонии.
+                               рабочих станций.
                             </p>
                         </div>
                     </div>
@@ -288,9 +288,7 @@
                 <div class="w-full lg:w-6/12 px-4">
                     <h2 class="text-4xl font-semibold">Я знаю и люблю своё дело</h2>
                     <p class="text-lg leading-relaxed m-4 text-gray-600">
-                Реализую Вам любой сайт от простого до очень сложного проекта.
-                От лендинга до высоконагруженного проекта.
-                 От легального сайта до скам проекта!
+                Реализую Вам любой сайт от простого до сложного проекта.
                     </p>
                 </div>
             </div>
@@ -322,8 +320,6 @@
                     <h2 class="text-4xl font-semibold text-white">Связь со мной</h2>
                     <p class="text-lg leading-relaxed mt-4 mb-4 text-gray-500">
                        Вы можете связаться со мной по почте, телеграм.
-                        Ну а если вы со мной хотите защищённого и анонимного общения
-                        то пишите ко мне в jabber только с включёным OTR !!!
                     </p>
                 </div>
             </div>
@@ -332,10 +328,10 @@
                     <div
                         class="text-gray-900 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center"
                     >
-                        <i class="fal fa-envelope"></i>
+                        <i class="fas fa-envelope"></i>
                     </div>
                     <h6 class="text-xl mt-5 font-semibold text-white">
-                        chinya@protonmail.ch
+                        chinyanana@gmail.com
                     </h6>
                 </div>
                 <div class="w-full lg:w-3/12 px-4 text-center">
@@ -397,7 +393,7 @@
         >
             <div class="w-full md:w-4/12 px-4 mx-auto text-center">
                 <div class="text-sm text-gray-900 font-semibold py-1">
-                    Copyright © 2020-2021 BY R3M1X
+                    Copyright © 2020-2022 BY DEVOPS
                     <div
                         class="text-gray-600 hover:text-red-500"
                     >Creative Coder</div
